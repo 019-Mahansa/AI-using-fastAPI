@@ -15,3 +15,7 @@ pip install fastapi google-genai python-dotenv markdown uvicorn
 ```bash
   http://127.0.0.1:8000/
 ```
+## .ENV Example
+```bash
+   export GEMINI_API_KEY="AIzaSyBC0vkKxRFzHtL4i5ppJYDwPty2V_k5_4E"
+```
